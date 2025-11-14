@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+openai
+python-dotenv
+tiktoken
+faiss-cpu
+sentence-transformers
+httpx
+beautifulsoup4
+python-multipart
+nltk
